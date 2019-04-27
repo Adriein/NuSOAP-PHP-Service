@@ -20,7 +20,7 @@ if(isset($_POST['submit']) == 'mostrar'){
 
 
   echo"</table>";
-}dede
+}
 ?>
 
 <!DOCTYPE html>
